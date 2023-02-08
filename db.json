@@ -1,0 +1,75 @@
+{
+  "employees": [
+    {
+      "name": "AKASH",
+      "gender": "Male",
+      "department": "HR",
+      "salary": "10000",
+      "startDate": "1692020",
+      "note": "RTT",
+      "id": 18
+    },
+    {
+      "name": "Aaksh",
+      "gender": "Male",
+      "department": "HR",
+      "salary": "30000",
+      "startDate": "1582018",
+      "note": "s",
+      "id": 19
+    },
+    {
+      "name": "AMIT LILADHAR AMIT",
+      "gender": "Male",
+      "department": "HR",
+      "salary": "20000",
+      "startDate": "1702015",
+      "note": "",
+      "id": 20
+    },
+    {
+      "name": "Satish Gabhane",
+      "gender": "Male",
+      "department": "Sales",
+      "salary": "30000",
+      "startDate": "2232020",
+      "note": "",
+      "id": 21
+    },
+    {
+      "name": "ishwari navghare",
+      "gender": "Female",
+      "department": "Engineer",
+      "salary": "30000",
+      "startDate": "2232014",
+      "note": "",
+      "id": 22
+    },
+    {
+      "name": "Swanand navghare",
+      "gender": "Male",
+      "department": "Sales",
+      "salary": "20000",
+      "startDate": null,
+      "note": "",
+      "id": 23
+    },
+    {
+      "name": "pratik dadaure",
+      "department": "Finance",
+      "salary": "",
+      "startDate": "0312015",
+      "note": "",
+      "id": 24
+    },
+    {
+      "name": "bunty mehre",
+      "gender": "Male",
+      "department": "Others",
+      "salary": "10000",
+      "startDate": "2022023",
+      "note": "",
+      "id": 25
+    }
+  ]
+}
